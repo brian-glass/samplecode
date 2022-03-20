@@ -44,7 +44,7 @@ public class Dog
     @Override
     public String toString()
     {
-        return("Hi my name is " + this.getName() + ".\nMy breed, age and color are " + this.getBreed()+"," + this.getAge() + "," + this.getColor());
+        return("Hi my name is " + this.getName() + ".\nMy breed, age and color are " + this.getBreed() + "," + this.getAge() + "," + this.getColor());
     }
  
     public static void main(String[] args)
